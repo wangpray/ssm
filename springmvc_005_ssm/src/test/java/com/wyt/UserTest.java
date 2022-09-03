@@ -19,7 +19,7 @@ public class UserTest {
 
     @Test
     public void testSelectUserPage() {
-        List<User> list = userService.selectUserPage(null, null, 3, PAGE_SIZE);
+        List<User> list = userService.selectUserPage(null, null, 1, PAGE_SIZE);
         list.forEach(user -> System.out.println(user));
     }
     @Test
