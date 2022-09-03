@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springmvc_003_ajax" />
+        <module name="spring_001_sm" />
+        <module name="springmvc_004_jump" />
+        <module name="springmvc_002_dataoSubmit" />
+        <module name="springmvc_001_demo" />
+        <module name="springmvc_005_ssm" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_001_sm" target="1.8" />
+      <module name="spring_002_dataSunmit" target="8" />
+      <module name="springmvc_001_demo" target="1.8" />
+      <module name="springmvc_002_dataoSubmit" target="1.8" />
+      <module name="springmvc_002_dataSubmit" target="1.7" />
+      <module name="springmvc_002_dataSunmit" target="8" />
+      <module name="springmvc_003_ajax" target="1.8" />
+      <module name="springmvc_004_jump" target="1.8" />
+      <module name="springmvc_005_ssm" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

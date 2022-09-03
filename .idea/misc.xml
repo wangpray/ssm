@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring_002_dataSubmit" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_001_demo" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_002_dataoSubmit" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_003_ajax" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_004_jump" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_005_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/untitled/spring_002_dataSubmit/springmvc_002_dataSubmit" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springmvc_001_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/spring_002_dataSubmit/spring_002_dataSubmit/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_002_dataoSubmit/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_003_ajax/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_004_jump/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_001_sm/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_005_ssm/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springmvc_001_demo/spring_002_dataSunmit/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_001_demo/springmvc_002_dataSunmit/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
